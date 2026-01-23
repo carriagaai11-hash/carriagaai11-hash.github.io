@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Reymart Carriaga | VA Portfolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ima
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-content">
+      <img src="https://storage.googleapis.com/msgsndr/EjZNa4j6AXhpSpPEczjc/media/697366cc76305a25043b8631.png" alt="Reymart Carriaga" class="profile-img">
+
+      <h1 class="name">Reymart Carriaga</h1>
+      <p class="subtitle">Virtual Assistant • GoHighLevel • SEO</p>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="about">
+    <h2>About Me</h2>
+    <p>
+      I help business owners and agencies with GoHighLevel setup,
+      SEO tasks, CRM management, and admin support to save time
+      and grow their business.
+    </p>
+  </section>
+
+  <!-- SKILLS -->
+  <section class="skills">
+    <h2>Skills</h2>
+    <div class="skills-grid">
+      <div class="card">GoHighLevel</div>
+      <div class="card">SEO On-Page</div>
+      <div class="card">Automation</div>
+      <div class="card">CRM Management</div>
+      <div class="card">Admin Support</div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="contact">
+    <h2>Contact</h2>
+    <p>Email: your@email.com</p>
+    <p>WhatsApp: +63 XXX XXX XXXX</p>
+  </section>
+
+</body>
+</html>
